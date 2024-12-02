@@ -1,7 +1,7 @@
 
-currentWorkingDirectory = "aleena1794/berlingeoheatmap_project1/"
+#currentWorkingDirectory = "aleena1794/berlingeoheatmap_project1/"
 #currentWorkingDirectory = "/mount/src/berlingeoheatmap1/"
-#currentWorkingDirectory = os.path.dirname(os.path.abspath(__file__))
+currentWorkingDirectory = os.path.dirname(os.path.abspath(__file__))
 
 # -----------------------------------------------------------------------------
 import os
