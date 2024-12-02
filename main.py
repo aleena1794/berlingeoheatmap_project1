@@ -1,6 +1,7 @@
 
-currentWorkingDirectory = "C:/Users/aleen/OneDrive/Desktop/Course material - Sem1/Advances Software Engg/ASE_Tasks/BHT_advanced_software_engineering_WiSe202425-main/berlingeoheatmap_project1-main/berlingeoheatmap_project1-main"
+currentWorkingDirectory = "aleena1794/berlingeoheatmap_project1/"
 #currentWorkingDirectory = "/mount/src/berlingeoheatmap1/"
+#currentWorkingDirectory = os.path.dirname(os.path.abspath(__file__))
 
 # -----------------------------------------------------------------------------
 import os
