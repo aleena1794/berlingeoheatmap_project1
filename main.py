@@ -1,10 +1,11 @@
 
 #currentWorkingDirectory = "aleena1794/berlingeoheatmap_project1/"
 #currentWorkingDirectory = "/mount/src/berlingeoheatmap1/"
-currentWorkingDirectory = os.path.dirname(os.path.abspath(__file__))
+
 
 # -----------------------------------------------------------------------------
 import os
+currentWorkingDirectory = os.path.dirname(os.path.abspath(__file__))
 os.chdir(currentWorkingDirectory)
 print("Current working directory\n" + os.getcwd())
 
